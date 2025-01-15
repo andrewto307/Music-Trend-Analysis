@@ -52,6 +52,19 @@
 </p>
 
 
+#### Correlation between selected tracks' appearances in different platforms' charts in 2023
+
+<p align="center">
+    <img src="Visualization/chart_appearance.png"/>
+</p>
+
+#### Distribution of features among selected tracks
+
+<p align="center">
+    <img src="Visualization/feature_distribution.png"/>
+</p>
+
+
 
 
 
